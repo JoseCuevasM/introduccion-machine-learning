@@ -9,22 +9,28 @@ con base en información suministrada en forma de ejemplos. Se trata entonces d
 El curso será desarrollado entorno a grandes tópicos, y la enseñanza estará basada en clases magistrales teórico prácticas desarrollando casos de uso para una mejor comprensión del desarrollo de proyectos analíticos en la industria Colombiana. Para el desarrollo de la clase será habilitado un canal de **`Slack`** para permitir la comunicación entre docentes y estudiantes de manera constante. Adicionalmente, se desarrollarán algunas "Clases Extra" que serán opcionales pero que a nivel profesional les permitirán descubrir nuevas herramientas que están en constante uso en el mercado laboral mediante la metodología de Bootcamps.
 
 # Contenido
-1. Introducción a Python.
-__Python es un lenguaje de programación de propósito general que se está volviendo cada vez más popular para la ciencia de datos. Las empresas de todo el mundo están utilizando Python para recopilar información de sus datos y obtener una ventaja competitiva. A diferencia de otros cursos de Python, este curso se centra en Python específicamente para la ciencia de datos. En nuestro curso de Introducción a Python, aprenderá acerca de formas poderosas de almacenar y manipular datos y herramientas útiles de ciencia de datos para comenzar a realizar sus propios análisis.(Tipos de variables, conversiones,operaciones básicas, Listas, Tuplas, Funciones, paquetes, NumPy,MatplotLib,Diccionarios,Pandas,Loops)__
+_______________________
+1. **Introducción a Python.**
 
-3. Introducción al ML.
+Python es un lenguaje de programación de propósito general que se está volviendo cada vez más popular para la ciencia de datos. Las empresas de todo el mundo están utilizando Python para recopilar información de sus datos y obtener una ventaja competitiva. A diferencia de otros cursos de Python, este curso se centra en Python específicamente para la ciencia de datos. En nuestro curso de Introducción a Python, aprenderá acerca de formas poderosas de almacenar y manipular datos y herramientas útiles de ciencia de datos para comenzar a realizar sus propios análisis.(Tipos de variables, conversiones,operaciones básicas, Listas, Tuplas, Funciones, paquetes, NumPy,MatplotLib,Diccionarios,Pandas,Loops)
+______________________
+2. **Introducción al ML.**
 - Definiciones.
 - Aplicación de la metodología CRISP-DM para el desarrollo de casos de uso.
-4. Aprendizaje Supervisado.
+________________________
+3. **Aprendizaje Supervisado.**
 - Regresión.
 - Clasificación.
-5. Aprendizaje No Supervisado.
+_______________________________
+4. **Aprendizaje No Supervisado.**
 - Algoritmos de Clustering.
 - Reducción de dimensionalidad.
 - Detección de anomalias.
 - Sistemas de Recomendación.
-6. Introducción a las redes neuronales.
-7. Despliegue de modelos (MLOps).
+__________________________________
+5. **Introducción a las redes neuronales.**
+____________________________________
+7. **Despliegue de modelos (MLOps).**
 
 
 
