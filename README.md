@@ -1,3 +1,5 @@
+<img src="https://www.univalle.edu.co/media/k2/items/cache/01a04b99e1d2566d4bbe8ea6d3bbf535_M.jpg" alt="Italian Trulli" style="width:5px;height:10px;"> 
+
 # Introducción Machine Learning 101
 Curso de introducción al machine learning para estudiantes del pregrado de estadística de la Universidad del Valle.
 
